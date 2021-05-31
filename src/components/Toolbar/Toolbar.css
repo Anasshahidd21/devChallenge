@@ -1,0 +1,18 @@
+* {
+  @import url ("https://fonts.googleapis.com/css2?family=Hind&display=swap");
+  font-family: "Hind", sans-serif;
+}
+
+.container-toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.name {
+  margin-left: 30px;
+}
+
+.icon {
+  padding: 25px;
+  cursor: pointer;
+}
